@@ -1,0 +1,169 @@
+========================================================================================										
+											Gestion de projets
+											========================================================================================
+											
+											
+											
+Gestion de projet?
+	Organisation méthodologique réalisée par le maître d'oeuvre (nous)pour répondre aux attentes du maître d'ouvrage (client) pour que cet ouvrage soit livré dans les cond de cout et de déélai prévues initialement.
+	La gestion de projet a pour objectif la coordination des acteurs et des tâches dans un souci d'efficacité et de rentabilité.
+	
+
+Les étapes de la gestion de projet:
+1. Collecte (Entretien avec lient et analyse du besoin)
+2. Rédaction du CDC
+3. Estimation des charges / évaluation des couts
+4. Réalisation du projet
+5. Recettage
+6. Suivi du projet
+7. Livraison / Support
+
+
+Collecte:
+3 objectifs principaux:
+	- Déterminer objectifs
+	- Définir le pénimètre
+	- Analyser les parties prenantes
+	
+1 outil principal: l'entretien
+	- Il doit être court (45 - 120mn)
+	- Dirigé, structuré
+	- Maintenir la discussion au bon niveau de détail
+	- Doit permettre de répondre aux questions du CDC que vos avez ciblé avant l'entretien
+	
+	Question de situation: Quelle est votre activité? Role?
+	Question de manque: Que manque t'il au syst acuel?
+	Question d'objectif: Quels problèmes résoudre? 
+	Question sur les données: Quelles sont les données à manipuler?
+	Question sur les états de transitions: Cheminement du dossier X, de l'objet Y?
+	Question de perspectives: Quelles doivent être les amélio? Qu'en attendez vous?
+	Question de précision: Comment faites vous pour...? Pourquoi? Je pense que ... Qu'en ensez vous?
+	Question de priorisation et de validation: Comment saurez vous que le syst est satisfaisant?
+	
+
+Rédaction du CDC
+CDC: est un doc formulant le besoin, au moyen de fonctions détaillant les services rendus par le produit et les contraintes auxquel il est soumis.
+Conseils:
+	- Rédiger le CDC dans un délai court après la collecte de données
+	- Précis et clair
+	- Ne jamais se dire qu'il ne sera pas lu
+	- Il doit pouvoir être lu (et compris) par le client et le équipes de dev
+	- /!\ Le temps de rédaction peut être long. Veillez à bien le rédiger en réutilisant des éléments pour le prochain (utiliser unmodèle de document le moins personnalisé possible)
+Mntionner les utilisations de fonctions tierces.
+Description des scénarii compexes.
+Diagrammes des états et modèle de données pour chaque état.
+Analyser les contraintes:
+	- Charges, couts, délais
+	- Installation, mise en exploiattion, recette
+	- Migration
+	- Environnement de développement
+	- Accompagnement, support, maintenance formation doivent petre évoqués
+	
+
+Contenu du CDC
+	I. Motivation du projet
+		1. But du projet
+		2. Personnes et organismes impliqués
+		3. Utilisateurs du produit
+	II. Contraintes du projet
+		1. Contraintes non négociables
+		2. Glossaire et conventions de dénomination (ex: langage) 
+	III. Exigences formelles
+		1. Portée du travail et du roduit
+		2. Exigences fonctionnelles (fonction minimum du produit)
+		3. Exigences sur les données (Client propriétaire des données? Du code? Données récupérables?)
+	IV. Exigences non fonctionnelles
+		1. Ergonomie et convivialité
+		2. Facilité d'uilisation et facteurs humain 
+		3. Fonctionnement du produit
+		4. Adéquation du produit avec son environement
+		5. Maintenance, support, portabilité, installation (Qui gèrent le support? etc)
+		6. Sécurité (secured DB? Cryptage?)
+		7. Exigences culturelles et politiques
+		8. Lois et standards influençant le produit
+	V. Autres aspects du projet
+		1. Questions sans réponse
+		2. Nouveaux problèmes
+		...
+		
+	
+Décrire les exigences fonctionnelles:
+	- Structuration: module -> fonction -> scénario
+	- Résumé et desc précise
+	- Modélisation (Bête à cornes, UML, autres...) 
+	
+	
+Evaluation des couts:2 approches:
+	- Comtabiliastion des carractéristiques fonctionnelles: chq fonction, module, poste est estimé individuellement en fonction de critères quantifiableset précis, puis compatibles
+	- L'analogie: Chaque partie du projet est estimée en fonction de la similitude avec des projets réalisés sur la base de la compatibilisation des heures passées
+	--> ne pas hésiter à intégrer une notion de probabilité (nous avons 80% de proba de tenir nos couts, délais)
+	
+	
+
+Réalisation du projet
+Conseils:
+	- Prendre le temps de briefer les équipes
+	- Etre précis demandes/exigences
+	- Contrôle de chaque étapes, ne pas négliger le recettage sur la base de la confiance envos équipes
+	- Utiliser des outils simples pour la gestion de projet
+	- Ne soyez pas trop 	"gentil". La gestion copain/copain de vos équipes vous perdra, etre tortionnaire vous desservira. Vous êtes entre le marteau et l'enclume.
+	- Communiquez régulièrement avec vos équipes. Obligez les à faier un reporting journalier / hebdomadaire
+	- Communiquez douvent avec le client pour l'informer dzes avancées des questions, poser les jalons.
+	- Répondez immédiatement à chacune des sollicitations du client ou de vos équipes, même si c'est juste pour l'informer que vous répondrez plus tard.
+	
+	
+Recettage: Vérification de la conformité du système aux exigences du CDC
+Conseils:
+	- Toujours faire une recette
+	- Tester. Tester. Tester... Tester
+	- Ne jamais faire une recette par mail, prévoyez du temps avec le client pour opposer à ses objections, les comprendre et lui montrer comment fonctionne le système.
+	- Faites le scénario de recette tout seul avant présentation au client...
+	
+
+Suivi de projet / Livraison et support: s'étends de la phase de dépoielent jusqu'à la mise en prod
+Conseils:
+	- Attention aux queues (Petits détails à régler) de projet! Vous pouvez les prendre dans le visage (pour rester poli, pas comme sur le slide :p)
+	- Mettez en place un outil de tickets pour gérer les demandes de modif / corrections pour ne rien oublier
+	- Analysez bien les demandes du client, vérifiez qu'elles sont conformes au CDC, sinon faites un avenant
+	-teamviewer est un plus non négligeable
+	- C'est la partie la plus DELICATE du projet. (Qui mérite même un caps lock)
+Distinction:
+	- Maintenance corrective: Elle désigne l'élimination d'une avarie ou d'un bug dans le logiciel, par un des divers moyens que sont la réparation ou la correction paliative
+	- Maintenance adaptative: La maintenance adaptative consiste à faire évoluer une appli lorsque son envt change afin d'assuer sa continuité de fonctionnement.
+	 - Maintenance évolutive: Elle consiste à faier évoluer une application, ar ex proposer de nouvelles fonctions. Elle consiste à améliorer voire à erdévelopper des fonctionnalitées pour faire face à de nouvelles exigences
+	 
+
+
+Outils de base pour la gestion de projet:
+	- Fiche d'entretien, prête à l'avance avec les questions à poser + identité du client (ses sites s'il ena déjà, son activité, zone)
+	- De quoi prendre des notes (feuille/crayon, tablette, pc...)
+	- Le modèle de cahier des charges tout prêt + modèle de devis
+	- Fiche de gestion du temps avec récap du devis (ex: tâche 1 - 10h ) (Un développement prévu à 10h doit être effectué en MAXIMUM 7h)
+	- Faire un wiki / Base de connaissance avec les bouts de code qui vont bien
+	
+Liste d'outils de O. Morin :)
+	- Un wiki (c'est la vie)
+	- Odoo (Gestion de projet et gestion de tâches + plugins)
+	- Se faire son logiciel :')
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
