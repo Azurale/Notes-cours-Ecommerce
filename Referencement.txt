@@ -1,0 +1,128 @@
+Mots clefs:
+-Page Rank
+-Robots
+-Annuaires (Endroit où on iscrit son site pour avoir un backlink)
+-Moteurs de recherche
+-Nom de dommaine
+-Backlinks
+
+Problématiques:
+1. Qu'est ce que le référencement?
+2. Comment fonctionnent les moteurs de recherche?
+3. Quels sont les pricipaux critères de recherche?
+4. Comment améliorer ma visibilité?
+
+But du référencement: ammener du trafic sur le site.
+
+1. 
+Referencement: ensemble des techniques qui ermettent d'inscrire un site dans les moteurs de recherche ou dans les annuaires.
+Ne pas confondre avec le positionnement. Celà est l'art d'améliorer la place du site dans les moteurs de recherche (SERP). 
+
+Le référencement c'est pas le seul élément de promotion du site. 
+Etapes du web-marketing:
+-Analyse
+-Création du trafic
+-Analyse des performances
+-Ajustement/fidélisation
+
+Regles de base du referencement:
+Donner de l'info / rendre un servie à un utilisateur final
+Objectif du moteur de recherche:
+Proposer des résultats pertinants en fonction de la demande d'un utilisateur final
+
+==> Il faut connaitre les utilisateur sfinaux et adapter le ontenu à ses utilisateurs.
+
+
+Regles d'or:
+- Se centrer sur son public cible en définissant leurs profils et leurs besoins
+- Créer un site qui a une réele valeur ajoutée pour l'utilisateur
+- rediger du contenu qui corresponde à une demande de l'utiisateur et à un vucabulaire utilisé par celui ci
+- Veiller à la qualité de son contenu, mots clefs, et du service rendu
+- Ne pas chercher à se positionner sur des mots clefs qui ne sont pas en rapport avec le contenu du site
+
+
+Optimiser referencement:
+- Choix des motc clefs (intéret, fiabilité)
+- Landing pages pour capter l'attention des internautes (peuvent être ancrées profondément dans le site) --> diriger le client des landing pages vers les pages d'actions.
+- Longue traine: Grand nombre d'expessios spécifiques ave peur de visites chacune. Les motc clefs gros porteurs vont générer beaucoup de trafic mais pas forcémebt avec un bon taux de convertion (et en général beaucoup de concurence). En revanche,  avec des mots clefs précis mais peu de visite: taux de élev" de convertion et peu de concurrene.
+
+Critères Intra-pages:
+Balise <title>
+	-Ne pas l'oublier
+	-A <title> différent par page
+	-Mots clefs carractéristiques de la page (pas plus de 10mots clefs
+Mettre des liens dans le texte
+
+URL de pages:
+
+Utiliser un url eplicite
+Utiliser un nom de dommaine en adéquation avec le corps de métier
+Choisir son hébergement
+Sous-domaines? Pas forcément. (Pour google: Sous-domaine ~= url)
+5 à 10 mots clefs dans l'url. Utilisation de "-" + date pour les nexs (2016-10-12-article-bla-bla)
+Remplir la balise meta <description>. description dur site sur 100-200 cara
+1 baslise par page
+Oublier la balise keyword
+
+
+
+Citères extra page
+
+Si une page est plus populaire qu'une autre elle sera mieux notée. Gestion de la popularité:
+	-Nombre de liens entrants vers la page. Depuis le site ou l'exterieur
+	-Faire des liens profonds
+	-Faire des liens de bonen qualité (sujet verbe complément, pas de spam)
+	
+==> Ordre de sortie = pertinence * notoriété
+
+Page rank : Plus de note précise par Google
+
+Temps de chargement:
+	-Perdre 500ms = -20% traffic
+	-Temps de chargement > 5s ==> max taux de rebond
+	-Webpagetest.org
+	
+freins au référencement:
+	-Nav mal gérée
+	-Url exotique
+	-Pagesatellites
+	-Cloacking
+	-Contenu dupliqué (site partenaire; site pirate, url différents, contenus proches)
+	
+Cf: URL cannonique
+
+
+
+
+Générer du trafic
+	-Positionnement naturel
+	-Ads
+	-Backlist
+	-réseaux sociaux
+	
+Aventages:
+	-Traffic important
+	-Retour sur investissement
+	-Bonne notoriété
+	
+Incoveignents
+	-Très technique
+	-Couteux
+	-C'est Google qui choisit :(
+	
+
+Adwords:
+Achat aux enchères de cots clefs
+
+
+
+
+
+
+
+
+
+
+
+
+
